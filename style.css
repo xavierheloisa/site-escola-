@@ -1,2 +1,11 @@
-header {background-color:mediumpurple}
-.cabecalho-imagem {width: 25%;}
+header {background-color:mediumpurple;
+display:flex;
+justify-content: space-around;}
+.imagem-cabecalho {width: 26%;}
+li {
+    display: inline-block;
+}
+h1 {
+    margin: 0 120px;
+    padding: 300px 0;
+}
